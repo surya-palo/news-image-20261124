@@ -1,8 +1,8 @@
 # The World in One Day — Tuesday 24 November 2026
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-news--image--20261124-blue)](https://make.fun/bounty/news-image-20261124)
-[![make.fun prize](https://img.shields.io/badge/prize-%24100-green)](https://make.fun/bounty/news-image-20261124)
-[![make.fun deadline](https://img.shields.io/badge/deadline-26%20Nov%202026-red)](https://make.fun/bounty/news-image-20261124)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/surya-palo/news-image-20261124/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/surya-palo/news-image-20261124/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A newspaper-style poster that sums up the world news of **Tuesday 24 November 2026**
 in one 1024x1024 image: one lead story plus six news cards and an "also today" strip.
